@@ -29,7 +29,7 @@ Parts of the code were written or improved with the help of an AI assistant. The
 Before using RuffleLoader, you must have the following installed on your PS Vita:
 
 - A modded PS Vita (HENkaku/Enso).
-- [Ruffle Flash Player Vita](https://github.com/ruffle-rs/ruffle) (The emulator itself).
+- [Ruffle for PS Vita (ruffle4consoles) by Fancy2209](https://github.com/Fancy2209/ruffle4consoles) (The emulator itself).
 - Games must be placed in `ux0:data/FlashGames/`.
 
 ## Usage
