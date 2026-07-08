@@ -14,9 +14,13 @@ RuffleLoader is a lightweight terminal-based GUI for the PS Vita. It automates t
 
 ## Showcase
 
-| LiveArea Interface | App Game Browser |
-| :---: | :---: |
-| <img src="Screenshots/LiveAreaShowcase.png" alt="RuffleLoader LiveArea" width="400"/> | <img src="Screenshots/AppShowcase.png" alt="RuffleLoader Game Browser" width="400"/> |
+<p align="center">
+  <img src="Screenshots/LiveAreaShowcase.png" alt="RuffleLoader LiveArea">
+</p>
+
+<p align="center">
+  <img src="Screenshots/AppShowcase.png" alt="RuffleLoader Game Browser">
+</p>
 
 ## AI Assistance
 
