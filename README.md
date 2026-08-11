@@ -22,10 +22,6 @@ RuffleLoader is a lightweight terminal-based GUI for the PS Vita. It automates t
   <img src="Screenshots/AppShowcase.png" alt="RuffleLoader Game Browser">
 </p>
 
-## AI Assistance
-
-Parts of the code were written or improved with the help of an AI assistant. The core logic, file management structure, and debugging process were human-led.
-
 ## Features
 
 - **File Browser**: Navigate your `ux0:data/FlashGames/` directory to easily find and select `.swf` files.
@@ -48,6 +44,10 @@ Before using RuffleLoader, you must have the following installed on your PS Vita
 
 Head to the [Releases](../../releases) section and download the latest `.vpk` file.
 Install it using VitaShell.
+
+## AI Assistance
+
+Parts of the code were written or improved with the help of an AI assistant. The core logic, file management structure, and debugging process were human-led.
 
 ### Build from source
 
