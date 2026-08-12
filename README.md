@@ -1,12 +1,7 @@
 <p align="center">
-  <img src="sce_sys/icon0.png" alt="RuffleLoader Logo" width="128"/>
+  <img src="ruffleloader.png" alt="RuffleLoader Logo" width="600"/>
 </p>
 
-<h1 align="center">RuffleLoader</h1>
-
-<p align="center">
-  Flash game launcher and custom input mapper for Ruffle on PS Vita.
-</p>
 
 ---
 
