@@ -12,12 +12,6 @@
 
 RuffleLoader is a lightweight terminal-based GUI for the PS Vita. It automates the process of loading `.swf` files into the Ruffle emulator and allows users to create persistent, per-game control mappings using the console's physical buttons.
 
-## Showcase
-
-<p align="center">
-  <img src="Screenshots/LiveAreaShowcase.png" alt="RuffleLoader LiveArea">
-</p>
-
 <p align="center">
   <img src="Screenshots/AppShowcase.png" alt="RuffleLoader Game Browser">
 </p>
